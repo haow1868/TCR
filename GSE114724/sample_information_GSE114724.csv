@@ -1,0 +1,6 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+BC09_TUMOR1,65,adult,Female,breast,No,breast tumor,Grade2,Diseased,GSE114724
+BC09_TUMOR2,65,adult,Female,breast,No,breast tumor,Grade2,Diseased,GSE114724
+BC10_TUMOR1,73,adult,Female,breast,No,breast tumor,Grade3,Diseased,GSE114724
+BC11_TUMOR1,50,adult,Female,breast,No,breast tumor,Grade3,Diseased,GSE114724
+BC11_TUMOR2,50,adult,Female,breast,No,breast tumor,Grade3,Diseased,GSE114724
