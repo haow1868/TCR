@@ -1,0 +1,15 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,disease_phase,GEO
+S1,67,adult,Male,blood,NA,COVID-19,severe,Diseased,convalescent,Zhang_2020
+S2,44,adult,Male,blood,NA,COVID-19,severe,Diseased,convalescent,Zhang_2020
+S3,67,adult,Female,blood,NA,COVID-19,severe,Diseased,convalescent,Zhang_2020
+S4,50,adult,Female,blood,NA,COVID-19,severe,Diseased,convalescent,Zhang_2020
+S5,57,adult,Female,blood,NA,COVID-19,severe,Diseased,convalescent,Zhang_2020
+M1,45,adult,Female,blood,NA,COVID-19,moderate,Diseased,convalescent,Zhang_2020
+M2,56,adult,Male,blood,NA,COVID-19,moderate,Diseased,convalescent,Zhang_2020
+M3,50,adult,Female,blood,NA,COVID-19,mild,Diseased,convalescent,Zhang_2020
+M4,30,adult,Male,blood,NA,COVID-19,mild,Diseased,convalescent,Zhang_2020
+H1,NA,adult,NA,blood,Control,Control,Control,Control,convalescent,Zhang_2020
+H2,NA,adult,NA,blood,Control,Control,Control,Control,convalescent,Zhang_2020
+H3,NA,adult,NA,blood,Control,Control,Control,Control,convalescent,Zhang_2020
+H4,NA,adult,NA,blood,Control,Control,Control,Control,convalescent,Zhang_2020
+H5,NA,adult,NA,blood,Control,Control,Control,Control,convalescent,Zhang_2020

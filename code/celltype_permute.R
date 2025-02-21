@@ -16,7 +16,6 @@ file_GSE = file_list[str_detect(file_list, "GSE|EMTAB9357_pbmc|PRJCA002413_pbmc|
 
 sample_information_file = paste0(folder_path, "/", file_GSE,"/sample_information_", file_GSE, ".csv")
 sample_information = sample_information_file %>% map_dfr(read.csv)
-#sample_information = sample_information_file %>% map_dfr(~read.csv(.x) %>% mutate(treatment = as.character(treatment)))
 
 df_immu_file = paste0(folder_path, "/", file_GSE, "/df_immu_", file_GSE, ".rds")
 df_immu_all = df_immu_file %>% map_dfr(readRDS)
