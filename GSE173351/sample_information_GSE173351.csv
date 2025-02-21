@@ -1,0 +1,108 @@
+sample,age,child_status,gender,tissue,disease,disease_stage,disease_status,treatment,time,MPR_status,histology,GEO
+MD01-004_Flu0_4,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_Flu0.1_1,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_Flu1_3,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_Flu10_2,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_LN_1,67,adult,Male,lymph nodes,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_LN_2,67,adult,Male,lymph nodes,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_LN_3,67,adult,Male,lymph nodes,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_MANA0_4,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_MANA0.1_1,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_MANA1_3,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_MANA10_2,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-004_tumor_1,67,adult,Male,tumor,lung cancers,T4N1,Diseased,Yes,post-treatment,non-MPR,Adenosquamous ,GSE173351
+MD01-005_LN_1,61,adult,Male,lymph nodes,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_LN_2,61,adult,Male,lymph nodes,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_LN_3,61,adult,Male,lymph nodes,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_LN_4,61,adult,Male,lymph nodes,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_M3_11,61,adult,Male,blood,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_M3_12,61,adult,Male,blood,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_M3_13,61,adult,Male,blood,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_M3_14,61,adult,Male,blood,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_normal_1,61,adult,Male,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_normal_2,61,adult,Male,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_normal_3,61,adult,Male,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_normal_4,61,adult,Male,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_normal_5,61,adult,Male,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_2,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_3,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_4,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_5,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_6,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_7,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_8,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_tumor_9,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W2_1,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W2,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W2_2,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W2,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W2_3,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W2,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W2_4,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W2,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_10,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_5,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_6,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_7,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_8,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-005_W4_9,61,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,W4,MPR ,Squamous Cell Carcinoma,GSE173351
+MD01-010_normal_1,78,adult,Female,normal,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD01-010_tumor_1,78,adult,Female,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD01-019_normal_1,70,adult,Male,normal,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_normal_2,70,adult,Male,normal,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_1,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_10,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_11,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_13,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_15,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_17,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_25,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_3,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_6,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_7,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-019_tumor_8,70,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD01-024_tumor_1,70,adult,Female,tumor,lung cancers,T1AN0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-003_normal_2,62,adult,Male,normal,lung cancers,T2aN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD043-003_tumor_2,62,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD043-003_tumor_4,62,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD043-003_tumor_5,62,adult,Male,tumor,lung cancers,T2aN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+MD043-006_normal_1,69,adult,Male,normal,lung cancers,T2AN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+MD043-006_tumor_1,69,adult,Male,tumor,lung cancers,T2AN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+MD043-008_normal_1,72,adult,Female,normal,lung cancers,T1bN0,Diseased,Yes,post-treatment,MPR,Squamous Cell Carcinoma,GSE173351
+MD043-008_tumor_1,72,adult,Female,tumor,lung cancers,T1bN0,Diseased,Yes,post-treatment,MPR,Squamous Cell Carcinoma,GSE173351
+MD043-011_LN_1,55,adult,Male,lymph nodes,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_LN_2,55,adult,Male,lymph nodes,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_LN_3,55,adult,Male,lymph nodes,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_mettumor_1,55,adult,Male,mettumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_mettumor_2,55,adult,Male,mettumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_mettumor_3,55,adult,Male,mettumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_mettumor_4,55,adult,Male,mettumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_mettumor_5,55,adult,Male,mettumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_normal_1,55,adult,Male,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_normal_2,55,adult,Male,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_normal_3,55,adult,Male,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_normal_4,55,adult,Male,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_normal_5,55,adult,Male,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_tumor_2,55,adult,Male,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_tumor_3,55,adult,Male,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_tumor_4,55,adult,Male,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+MD043-011_tumor_5,55,adult,Male,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-007_normal_1,68,adult,Female,normal,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+NY016-007_tumor_1,68,adult,Female,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+NY016-007_tumor_2,68,adult,Female,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+NY016-007_tumor_3,68,adult,Female,tumor,lung cancers,T2aN1,Diseased,Yes,post-treatment,non-MPR,Squamous Cell Carcinoma,GSE173351
+NY016-014_tumor_1,58,adult,Female,tumor,lung cancers,T2N2,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-014_tumor_2,58,adult,Female,tumor,lung cancers,T2N2,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-014_tumor_3,58,adult,Female,tumor,lung cancers,T2N2,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-015_normal_1,58,adult,Female,normal,lung cancers,T2bN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-015_tumor_1,58,adult,Female,tumor,lung cancers,T2bN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-015_tumor_2,58,adult,Female,tumor,lung cancers,T2bN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-015_tumor_3,58,adult,Female,tumor,lung cancers,T2bN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-015_tumor_4,58,adult,Female,tumor,lung cancers,T2bN1,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-016_normal_1,79,adult,Female,normal,lung cancers,T1bN1,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-021_tumor_1,74,adult,Male,tumor,lung cancers,T3N0,Diseased,Yes,post-treatment,non-MPR,Adenocarcinoma,GSE173351
+NY016-022_normal_1,66,adult,Female,normal,lung cancers,T2bN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-022_tumor_1,66,adult,Female,tumor,lung cancers,T2bN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-022_tumor_2,66,adult,Female,tumor,lung cancers,T2bN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-022_tumor_3,66,adult,Female,tumor,lung cancers,T2bN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-022_tumor_4,66,adult,Female,tumor,lung cancers,T2bN0,Diseased,Yes,post-treatment,MPR,Adenocarcinoma,GSE173351
+NY016-025_normal_1,74,adult,Female,normal,lung cancers,T3N1,Diseased,Yes,post-treatment,MPR,Adenosquamous ,GSE173351
+NY016-025_tumor_1,74,adult,Female,tumor,lung cancers,T3N1,Diseased,Yes,post-treatment,MPR,Adenosquamous ,GSE173351
+NY016-025_tumor_2,74,adult,Female,tumor,lung cancers,T3N1,Diseased,Yes,post-treatment,MPR,Adenosquamous ,GSE173351
+NY016-025_tumor_4,74,adult,Female,tumor,lung cancers,T3N1,Diseased,Yes,post-treatment,MPR,Adenosquamous ,GSE173351
