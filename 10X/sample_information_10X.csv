@@ -1,0 +1,4 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+pbmc1,27,adult,Male,blood,Control,Control,Control,Control,10X
+pbmc2,NA,adult,Male,blood,Control,Control,Control,Control,10X
+pbmc3,NA,adult,Male,blood,Control,Control,Control,Control,10X
