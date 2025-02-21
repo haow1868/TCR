@@ -1,0 +1,14 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+ccRCC_1_ft_rep1,62,adult,Male,tumor,FALSE,clear cell renal carcinoma,pT3a,Diseased,GSE111360
+ccRCC_1_ft_rep2,62,adult,Male,tumor,FALSE,clear cell renal carcinoma,pT3a,Diseased,GSE111360
+ccRCC_1_or_rep1,62,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_1_or_rep2,62,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_A_or_rep1,59,adult,Female,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_A_or_rep2,59,adult,Female,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_B_or_rep1,54,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_B_or_rep2,54,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_2_ft_rep1,57,adult,Male,tumor,FALSE,clear cell renal carcinoma,pT1a,Diseased,GSE111360
+ccRCC_2_ft_rep2,57,adult,Male,tumor,FALSE,clear cell renal carcinoma,pT1a,Diseased,GSE111360
+ccRCC_2_or_rep1,57,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+ccRCC_2_or_rep2,57,adult,Male,organoid,FALSE,clear cell renal carcinoma,NA,Diseased,GSE111360
+pbmc,NA,NA,NA,pbmc,Control,Control,Control,Control,GSE111360
