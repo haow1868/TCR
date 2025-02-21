@@ -1,0 +1,16 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+ERS1,NA,adult,Male,blood,NA,COVID-19,mild/moderate,Diseased,PRJCA002413
+ERS2,NA,adult,Male,blood,NA,COVID-19,mild/moderate,Diseased,PRJCA002413
+ERS3,NA,adult,Female,blood,NA,COVID-19,severe,Diseased,PRJCA002413
+ERS4,NA,adult,Female,blood,NA,COVID-19,severe,Diseased,PRJCA002413
+ERS5,NA,adult,Female,blood,NA,COVID-19,mild/moderate,Diseased,PRJCA002413
+LRS1,NA,adult,Male,blood,NA,COVID-19,severe,Diseased,PRJCA002413
+LRS2,NA,adult,Male,blood,NA,COVID-19,mild/moderate,Diseased,PRJCA002413
+LRS3,NA,adult,Male,blood,NA,COVID-19,mild/moderate,Diseased,PRJCA002413
+LRS4,NA,adult,Female,blood,NA,COVID-19,severe,Diseased,PRJCA002413
+LRS5,NA,adult,Female,blood,NA,COVID-19,severe,Diseased,PRJCA002413
+Healthy_Control_1,NA,adult,Male,blood,Control,Control,Control,Control,PRJCA002413
+Healthy_Control_2,NA,adult,Male,blood,Control,Control,Control,Control,PRJCA002413
+Healthy_Control_3,NA,adult,Female,blood,Control,Control,Control,Control,PRJCA002413
+Healthy_Control_4,NA,adult,Female,blood,Control,Control,Control,Control,PRJCA002413
+Healthy_Control_5,NA,adult,Female,blood,Control,Control,Control,Control,PRJCA002413
