@@ -1,0 +1,16 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,study_arm,GEO
+IV236,22,adult,Male,blood,No,HIV-1,viremia,Diseased,Immediate,GSE187515
+IS236,22,adult,Male,blood,ART,HIV-1,supression,Diseased,Immediate,GSE187515
+IV640,26,adult,Male,blood,No,HIV-1,viremia,Diseased,Immediate,GSE187515
+IS640,26,adult,Male,blood,ART,HIV-1,supression,Diseased,Immediate,GSE187515
+IV829,21,adult,Male,blood,No,HIV-1,viremia,Diseased,Immediate,GSE187515
+IS829,21,adult,Male,blood,ART,HIV-1,supression,Diseased,Immediate,GSE187515
+DV739,23,adult,Male,blood,No,HIV-1,viremia,Diseased,Defer,GSE187515
+DS739,23,adult,Male,blood,ART,HIV-1,supression,Diseased,Defer,GSE187515
+DV799,31,adult,Male,blood,No,HIV-1,viremia,Diseased,Defer,GSE187515
+DS799,31,adult,Male,blood,ART,HIV-1,supression,Diseased,Defer,GSE187515
+DV910,24,adult,Male,blood,No,HIV-1,viremia,Diseased,Defer,GSE187515
+DS910,24,adult,Male,blood,ART,HIV-1,supression,Diseased,Defer,GSE187515
+2023-1,47,adult,Male,blood,Control,Control,Control,Control,Control,GSE187515
+2023-2,47,adult,Male,blood,Control,Control,Control,Control,Control,GSE187515
+2024,55,adult,Male,blood,Control,Control,Control,Control,Control,GSE187515
