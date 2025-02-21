@@ -1,0 +1,15 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+S133A,60,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
+S134A,53,adult,Female,tumor,No,esophagus squamous cell carcinoma,IIIA,Diseased,GSE145370
+S135A,71,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIA,Diseased,GSE145370
+S149A,81,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIA,Diseased,GSE145370
+S150A,73,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
+S158A,55,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIB,Diseased,GSE145370
+S159A,54,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
+S133B,60,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
+S134B,53,adult,Female,tumor,No,esophagus squamous cell carcinoma,IIIA,Diseased,GSE145370
+S135B,71,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIA,Diseased,GSE145370
+S149B,81,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIA,Diseased,GSE145370
+S150B,73,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
+S158B,55,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIB,Diseased,GSE145370
+S159B,54,adult,Male,tumor,No,esophagus squamous cell carcinoma,IIIB,Diseased,GSE145370
