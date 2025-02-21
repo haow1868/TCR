@@ -1,0 +1,21 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+C1,62,adult,Female,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C2,71.2,adult,Female,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C3,56.2,adult,Male,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C4,61.5,adult,Male,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C5,72.8,adult,Male,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C6,78.4,adult,Male,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C7,61.6,adult,Female,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+C8,49.5,adult,Female,"colon, rectum",TRUE,Melanoma + CPI colitis,stage4,Diseased,GSE144469
+NC1,43.6,adult,Male,"colon, rectum",TRUE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+NC2,68.1,adult,Male,"colon, rectum",FALSE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+NC3,70.5,adult,Female,"colon, rectum",TRUE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+NC4,63.7,adult,Male,"colon, rectum",TRUE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+NC5,58.5,adult,Male,"colon, rectum",TRUE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+NC6,49.3,adult,Female,"colon, rectum",TRUE,Melanoma + CPI no colitis,stage4,Diseased,GSE144469
+CT2,61.7,adult,Male,"colon, rectum",Control,Control,Control,Control,GSE144469
+CT3,50.5,adult,Male,"colon, rectum",Control,Control,Control,Control,GSE144469
+CT4,43.4,adult,Male,"colon, rectum",Control,Control,Control,Control,GSE144469
+CT6,44.3,adult,Male,"colon, rectum",Control,Control,Control,Control,GSE144469
+CT7,50.2,adult,Male,"colon, rectum",Control,Control,Control,Control,GSE144469
+CT8,61.5,adult,Female,"colon, rectum",Control,Control,Control,Control,GSE144469
