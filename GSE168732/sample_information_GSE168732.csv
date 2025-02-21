@@ -1,0 +1,16 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+P1_before,1.6,child,Female,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P1_after,1.6,child,Female,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+P2_before,5.4,child,Female,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P2_after,5.4,child,Female,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+P3_before,3.3,child,Female,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P3_after,3.3,child,Female,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+P4_before,2.1,child,Male,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P4_after,2.1,child,Male,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+P5_before,1.9,child,Male,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P5_after,1.9,child,Male,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+P6_before,4.7,child,Male,blood,No,kawasaki disease,NA,Diseased,GSE168732
+P6_after,4.7,child,Male,blood,IVIG,kawasaki disease,NA,Diseased,GSE168732
+H1_health,1.7,child,Male,blood,NA,Control,Control,Control,GSE168732
+H2_health,3,child,Female,blood,NA,Control,Control,Control,GSE168732
+H3_health,5,child,Female,blood,NA,Control,Control,Control,GSE168732
