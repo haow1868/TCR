@@ -1,0 +1,10 @@
+﻿sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+C141,36,adult,Male,lung,NA,COVID-19,mild,Diseased,GSE145926
+C142,37,adult,Female,lung,NA,COVID-19,mild,Diseased,GSE145926
+C143,66,adult,Male,lung,NA,COVID-19,severe,Diseased,GSE145926
+C144,35,adult,Male,lung,NA,COVID-19,mild,Diseased,GSE145926
+C145,62,adult,Male,lung,NA,COVID-19,severe,Diseased,GSE145926
+C146,63,adult,Male,lung,NA,COVID-19,severe,Diseased,GSE145926
+C148,65,adult,Female,lung,NA,COVID-19,severe,Diseased,GSE145926
+C149,57,adult,Female,lung,NA,COVID-19,severe,Diseased,GSE145926
+C152,46,adult,Male,lung,NA,COVID-19,severe,Diseased,GSE145926
