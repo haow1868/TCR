@@ -1,0 +1,7 @@
+sample,age,child_status,gender,tissue,treatment,disease,disease_stage,disease_status,GEO
+GU0700_T,69,adult,NA,tumor,No,clear cell renal carcinoma,pT3a,Diseased,GSE121638
+GU0715_T,74,adult,NA,tumor,No,clear cell renal carcinoma,PT1b,Diseased,GSE121638
+GU0744_T,67,adult,NA,tumor,No,clear cell renal carcinoma,PT1b,Diseased,GSE121638
+GU0700_P,69,adult,NA,blood,No,clear cell renal carcinoma,pT3a,Diseased,GSE121638
+GU0715_P,74,adult,NA,blood,No,clear cell renal carcinoma,PT1b,Diseased,GSE121638
+GU0744_P,67,adult,NA,blood,No,clear cell renal carcinoma,PT1b,Diseased,GSE121638
